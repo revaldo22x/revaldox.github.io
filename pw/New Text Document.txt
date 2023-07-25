@@ -1,0 +1,8 @@
+Admin :
+Email : admin@gmail.com
+Password : 123
+
+Client :
+Email : rakesh@gmail.com
+Password : 1234
+
